@@ -1,7 +1,7 @@
 require 'pry'
 
 def second_supply_for_fourth_of_july(holiday_hash)
-  
+  holiday_supplies
 
   # given that holiday_hash looks like this:
   holiday_supplies = 
